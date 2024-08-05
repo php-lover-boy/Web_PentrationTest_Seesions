@@ -1,4 +1,1 @@
-# chamrosh
-Vulnerability Management Dashboard
-Chamrosh is the name of one of the mythical birds of Iran.
-
+فایل های مربوط به دوره تست نفوذ وب بدون پیش نیاز 
